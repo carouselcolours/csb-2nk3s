@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://carouselcolours.github.io/csb-2nk3s/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://carouselcolours.github.io/csb-2nk3s/static/js/main.957fc30c.chunk.js",
+    "main.js.map": "https://carouselcolours.github.io/csb-2nk3s/static/js/main.957fc30c.chunk.js.map",
+    "runtime-main.js": "https://carouselcolours.github.io/csb-2nk3s/static/js/runtime-main.01e302d7.js",
+    "runtime-main.js.map": "https://carouselcolours.github.io/csb-2nk3s/static/js/runtime-main.01e302d7.js.map",
+    "static/js/2.8ba01b58.chunk.js": "https://carouselcolours.github.io/csb-2nk3s/static/js/2.8ba01b58.chunk.js",
+    "static/js/2.8ba01b58.chunk.js.map": "https://carouselcolours.github.io/csb-2nk3s/static/js/2.8ba01b58.chunk.js.map",
+    "index.html": "https://carouselcolours.github.io/csb-2nk3s/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://carouselcolours.github.io/csb-2nk3s/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.8ba01b58.chunk.js.LICENSE.txt": "https://carouselcolours.github.io/csb-2nk3s/static/js/2.8ba01b58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01e302d7.js",
+    "static/js/2.8ba01b58.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.957fc30c.chunk.js"
+  ]
+}
